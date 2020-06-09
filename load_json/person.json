@@ -1,0 +1,30 @@
+[
+    {
+        "name":" Gaurav Mishra",
+        "age":"23",
+        "height":"180",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":" raj Mishra",
+        "age":"2",
+        "height":"18",
+        "gender":"male",
+        "hair_color":"blk"
+    },
+    {
+        "name":" Mishra",
+        "age":"230",
+        "height":"1800",
+        "gender":"male",
+        "hair_color":"bl"
+    },
+    {
+        "name":" GauravMishra",
+        "age":"203",
+        "height":"1080",
+        "gender":"male",
+        "hair_color":"blac"
+    }
+]
